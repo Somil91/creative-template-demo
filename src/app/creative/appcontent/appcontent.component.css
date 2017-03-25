@@ -1,0 +1,11 @@
+.content-center {
+  text-align: center;
+}
+
+.header-img {
+  position: relative;
+  background: url(http://placehold.it/1400x521) no-repeat center center;
+  -o-background-size: cover;
+  background-size: cover;
+  z-index: 1;
+}
