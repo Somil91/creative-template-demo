@@ -1,0 +1,32 @@
+
+  <nav class="navbar navbar-toggleable-md navbar-light bg-faded ml-md-5 pl-md-5 app-nav">
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" [attr.aria-expanded]="!isMenuCollapsed" aria-label="Toggle navigation" (click)="isMenuCollapsed = !isMenuCollapsed">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+    <a class="navbar-brand montserrat font-weight-bold text-uppercase ml-md-5 pl-md-5" href="#">
+      <img src="https://res.cloudinary.com/somilkumar/image/upload/q_auto/v1490607276/templateImage5_k8rkeb.png" width="30" height="30" class="d-inline-block align-top" alt="Logo"> TreeHouse
+    </a>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent" [ngbCollapse]="isMenuCollapsed">
+
+      <div class="d-flex justify-content-end ml-md-5 pl-md-5">
+        <ul class="navbar-nav  ml-md-5  pl-md-5 montserrat font-weight-bold text-uppercase">
+          <li class="nav-item ml-lg-5 pl-lg-5">
+            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Blog</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Porfolio</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </nav>
