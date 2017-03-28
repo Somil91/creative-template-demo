@@ -1,6 +1,6 @@
 .header-img {
   position: relative;
-  background: url(http://res.cloudinary.com/somilkumar/image/upload/q_auto/v1490607279/templateImage4_ervu4f.png) no-repeat center center;
+  background: url(https://res.cloudinary.com/somilkumar/image/upload/q_auto/v1490607279/templateImage4_ervu4f.png) no-repeat center center;
   -o-background-size: cover;
   background-size: cover;
   z-index: 1;
@@ -47,7 +47,7 @@
 .section-3 {
   position: relative;
   display: block;
-  background: url(http://res.cloudinary.com/somilkumar/image/upload/q_auto/v1490607278/templateImage8_slytd6.png) no-repeat center center;
+  background: url(https://res.cloudinary.com/somilkumar/image/upload/q_auto/v1490607278/templateImage8_slytd6.png) no-repeat center center;
   -o-background-size: cover;
   background-size: cover;
 }
@@ -60,7 +60,7 @@
   left: -205px;
   height: 100%;
   width: 100%;
-  background: url(http://res.cloudinary.com/somilkumar/image/upload/v1490619057/settingsBigIcon_cyb0uk.png) no-repeat;
+  background: url(https://res.cloudinary.com/somilkumar/image/upload/v1490619057/settingsBigIcon_cyb0uk.png) no-repeat;
   z-index: -2;
 }
 
@@ -84,7 +84,7 @@
 
 .section-4-bg {
   position: relative;
-  background-image: url(http://res.cloudinary.com/somilkumar/image/upload/v1490607278/templateImage10_srmcwr.png);
+  background-image: url(https://res.cloudinary.com/somilkumar/image/upload/v1490607278/templateImage10_srmcwr.png);
   background-position: 100% 60%;
   -o-background-size: 50% 60%;
   background-size: 50% 60%;
@@ -102,17 +102,17 @@
 }
 
 .section-4-icon-1 {
-  background: url(http://res.cloudinary.com/somilkumar/image/upload/q_auto/v1490619056/deleteIcon_hvggye.png) no-repeat;
+  background: url(https://res.cloudinary.com/somilkumar/image/upload/q_auto/v1490619056/deleteIcon_hvggye.png) no-repeat;
   background-position: 50% 40%;
 }
 
 .section-4-icon-2 {
-  background: url(http://res.cloudinary.com/somilkumar/image/upload/q_auto/v1490619056/systemIcon_kyzqct.png) no-repeat;
+  background: url(https://res.cloudinary.com/somilkumar/image/upload/q_auto/v1490619056/systemIcon_kyzqct.png) no-repeat;
   background-position: 50% 40%;
 }
 
 .section-4-icon-3 {
-  background: url(http://res.cloudinary.com/somilkumar/image/upload/q_auto/v1490619056/lockIcon_kbdhw1.png) no-repeat;
+  background: url(https://res.cloudinary.com/somilkumar/image/upload/q_auto/v1490619056/lockIcon_kbdhw1.png) no-repeat;
   background-position: 50% 40%;
 }
 
@@ -144,17 +144,17 @@
 }
 
 .section-5-icon-1 {
-  background: url(http://res.cloudinary.com/somilkumar/image/upload/q_auto/v1490619056/musicIcon_ncz9gc.png) no-repeat;
+  background: url(https://res.cloudinary.com/somilkumar/image/upload/q_auto/v1490619056/musicIcon_ncz9gc.png) no-repeat;
   background-position: 40% 50%;
 }
 
 .section-5-icon-2 {
-  background: url(http://res.cloudinary.com/somilkumar/image/upload/q_auto/v1490619056/graphIcon_ayzrqq.png) no-repeat;
+  background: url(https://res.cloudinary.com/somilkumar/image/upload/q_auto/v1490619056/graphIcon_ayzrqq.png) no-repeat;
   background-position: 40% 50%;
 }
 
 .section-5-icon-3 {
-  background: url(http://res.cloudinary.com/somilkumar/image/upload/q_auto/v1490619056/starIcon_onbzjp.png) no-repeat;
+  background: url(https://res.cloudinary.com/somilkumar/image/upload/q_auto/v1490619056/starIcon_onbzjp.png) no-repeat;
   background-position: 40% 50%;
 }
 

@@ -1,11 +1,21 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 
-const routes: Routes = [];
+import { CreativeComponent } from './creative.component';
+import { ErrorComponent } from './error/error.component';
+
+
+
+
+const routes: Routes = [
+	{ path: 'home', component: CreativeComponent },
+	{ path: '', redirectTo: '/home', pathMatch: 'full' },
+	{ path: '**', component: ErrorComponent },
+];
 
 @NgModule({
 	imports: [
-		RouterModule.forChild(routes),
+		RouterModule.forRoot(routes),
 	],
 	exports: [
 		RouterModule,

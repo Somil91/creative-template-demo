@@ -5,19 +5,21 @@ import { HttpModule } from '@angular/http';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
 import { CreativeModule } from './creative/creative.module';
+import { CreativeRoutingModule } from './creative/creative-routing.module';
 
 import { AppComponent } from './app.component';
 
 @NgModule({
 	declarations: [
-		AppComponent
+		AppComponent,
 	],
 	imports: [
 		BrowserModule,
 		FormsModule,
 		HttpModule,
 		NgbModule.forRoot(),
-		CreativeModule
+		CreativeModule,
+		CreativeRoutingModule,
 	],
 	providers: [],
 	bootstrap: [AppComponent]
